@@ -1,0 +1,180 @@
+{
+  "categorias": [
+    {
+      "titulo": "ROM ROM",
+      "link": "https://www.youtube.com/watch?v=wmSWpByB7ck",
+      "cor": "#FF91EA",
+      "link_extra": {
+        "text": "Vem afofar os gatinhos também!"
+      },
+      "videos": [
+        {
+          "titulo": "Como resistir a um meow?",
+          "url": "https://www.youtube.com/watch?v=b8iTTiU7Ot0"
+        },
+        {
+          "titulo": "Little Girls and Kittens",
+          "url": "https://www.youtube.com/watch?v=JSIcRxhJf94"
+        },
+        {
+          "titulo": "Cute Baby Cats",
+          "url": "https://www.youtube.com/watch?v=zN-FXGpVABQ"
+        },
+        {
+          "titulo": "So Cute Kittens",
+          "url": "https://www.youtube.com/watch?v=AgmnUl31_ng"
+        },
+        {
+          "titulo": "Mama Kitten",
+          "url": "https://www.youtube.com/watch?v=4C-ifmRfBNA"
+        },
+        {
+          "titulo": "Best Cat moments",
+          "url": "https://www.youtube.com/watch?v=Lq8bpo9KWa8"
+        },
+        {
+          "titulo": "TikTok Cats",
+          "url": "https://www.youtube.com/watch?v=pStVReKQ0c4"
+        },
+        {
+          "titulo": "Gif Compilation of Cats",
+          "url": "https://www.youtube.com/watch?v=1ypLRDIxNM4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Animações",
+      "cor": "lightpink",
+      "link_extra": {
+        "text": "Coletânea de animações muito fofas com gatinhos"
+      },
+      "videos": [
+        {
+          "titulo": "Pusheen Happy Birthday",
+          "url": "https://www.youtube.com/watch?v=s495AASHgC0"
+        },
+        {
+          "titulo": "Pusheen Meet the Crew",
+          "url": "https://www.youtube.com/watch?v=5L5_xVuncAA"
+        },
+        {
+          "titulo": "MitchiriNeko",
+          "url": "https://www.youtube.com/watch?v=lAIGb1lfpBw"
+        },
+        {
+          "titulo": "KitBull",
+          "url": "https://www.youtube.com/watch?v=AZS5cgybKcI"
+        }, 
+        {
+          "titulo": "Cats",
+          "url": "https://www.youtube.com/watch?v=Jsyq2XwzZ10"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas Miau",
+      "cor": "pink",
+      "link_extra": {
+        "text": "Gatinhos que tocam e cantam",
+        "url": "https://www.youtube.com/watch?v=YXWYb70IRGA"
+      },
+      "videos": [
+        {
+          "titulo": "Shape  of Meow",
+          "url": "https://www.youtube.com/watch?v=TMayVLSQ6yM"
+        },
+        {
+          "titulo": "Havana",
+          "url": "https://www.youtube.com/watch?v=Rst9PMaKeHI"
+        },
+        {
+          "titulo": "DUDUDU",
+          "url": "https://www.youtube.com/watch?v=ncN8JeG-dZ0"
+        },
+        {
+          "titulo": "Believer",
+          "url": "https://www.youtube.com/watch?v=W82msO2iYbM"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "hotpink",
+      "videos": [
+        {
+          "titulo": "O Reino dos Gatos",
+          "url": "https://www.youtube.com/watch?v=Gp-H_YOcYTM"
+        },
+        {
+          "titulo": "Olhos de Gato",
+          "url": "https://www.youtube.com/watch?v=X64K_kHEYUc"
+        },
+        {
+          "titulo": "Rent a Cat",
+          "url": "https://www.youtube.com/watch?v=2DgsamEIC9w"
+        },
+        {
+          "titulo": "Puss in Boots",
+          "url": "https://www.youtube.com/watch?v=55gmAtakjJ4"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "deeppink",
+      "videos": [
+        {
+          "titulo": "Nyan Cat",
+          "url": "https://www.youtube.com/watch?v=y9pvycrgiDI"
+        },
+        {
+          "titulo": "Cat Simulator",
+          "url": "https://www.youtube.com/watch?v=nFLWwH_0zQ8"
+        },
+        {
+          "titulo": "Little Kitten Adventures",
+          "url": "https://www.youtube.com/watch?v=tBpOdJ_G-sQ"
+        },
+        {
+          "titulo": "Neko Atsume",
+          "url": "https://www.youtube.com/watch?v=OWehmiHmEX0"
+        },
+        {
+          "titulo": "Simon's Cat Dash",
+          "url": "https://www.youtube.com/watch?v=1xoUGAHCaQk"
+        }
+      ]
+    },
+    {
+      "titulo": "Cuidados com seu gato",
+      "cor": "mediumVioletRed",
+      "text": "Dicas de como cuidar melhor dos seus bichanos",
+      "videos": [
+        {
+          "titulo": "Por que seu gato te segue até o banheiro?",
+          "url": "https://www.youtube.com/watch?v=SYdC5Em_SRs"
+        },
+        {
+          "titulo": "Conquiste um gatinho",
+          "url": "https://www.youtube.com/watch?v=7qjYDpdeWs0"
+        },
+        {
+          "titulo": "7 erros que os donos cometem",
+          "url": "https://www.youtube.com/watch?v=yxsP0KyOlgs"
+        },
+        {
+          "titulo": "Cuidados com gatinhos filhotes",
+          "url": "https://www.youtube.com/watch?v=oTNna4f3w9U"
+        },
+        {
+          "titulo": "Como educar seu filhote",
+          "url": "https://www.youtube.com/watch?v=OC3PvXYscNI"
+        },
+        {
+          "titulo": "Como e quando dar banho em gatos?",
+          "url": "https://www.youtube.com/watch?v=r7XNa_Rt7C0"
+        }
+      ]
+    }
+  ]
+}
